@@ -1,6 +1,8 @@
 # til
 Today I Learned
 
+1. [Ruby](https://github.com/irahulsingh/til/tree/master/ruby)
+
 # Inspiration
 Inspired by https://github.com/thoughtbot/til
 
